@@ -1,0 +1,11 @@
+The Custom Image Classification Model in Azure AI Labs demonstrates how to create and deploy a machine learning model using Azure’s AI services. This model is tailored to classify images based on a custom dataset, allowing for specialized classification beyond generic models.
+
+Key Steps:
+Dataset Preparation: Collect a custom dataset of labeled images for the classes you want to classify.
+Azure Custom Vision: Leverage Azure Custom Vision to train the model. This service simplifies the process of building a custom image classification model without needing deep expertise in machine learning.
+Model Training: Upload the images to Azure, define the categories, and train the model using the Custom Vision service.
+Evaluation & Optimization: Test the model's accuracy using a validation dataset and adjust as necessary for better performance.
+Deployment: Once trained, deploy the model via Azure for real-time image classification applications.
+This project showcases how to leverage Azure AI’s Custom Vision for creating a personalized image classification model, streamlining the process of implementing AI solutions in real-world applications.
+
+Feel free to check out the Azure AI Labs repository for code and implementation details!
